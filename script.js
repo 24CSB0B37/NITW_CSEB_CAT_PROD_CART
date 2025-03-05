@@ -95,8 +95,8 @@ class Cart {
 
 const cart = new Cart();
 const products = [
-    new Product(1, 'P de Voyage - Portable Piano', 3999.99, '1.jpg'),
-    new Product(2, 'Product 2', 39.99, '2.jpg'),
+    new Product(1, 'Portable Piano - P de Voyage', 3999.99, '1.jpg'),
+    new Product(2, 'Drum Set - Yamaha ', 1799.99, '2.jpg'),
     new Product(3, 'Product 3', 49.99, '3.jpg'),
     new Product(4, 'Product 4', 19.99, '4.jpg'),
     new Product(5, 'Product 5', 59.99, '5.jpg'),
